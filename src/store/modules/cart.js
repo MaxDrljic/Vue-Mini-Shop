@@ -57,7 +57,7 @@ export default {
             return state.total;
         },
         quantity(state) {
-            return state.quantity;
+            return state.qty;
         }
     }
 };
